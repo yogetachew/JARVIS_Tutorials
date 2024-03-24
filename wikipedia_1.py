@@ -1,5 +1,5 @@
 """
-    name: Yonatan getachew 
+    name: wikipedia_1.py 
     Author: Yonatan Getachew 
     Created: 3/24/2024
 """ 

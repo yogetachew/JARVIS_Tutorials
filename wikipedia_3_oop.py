@@ -1,3 +1,9 @@
+"""
+    name: wikipedia_3_OOP.py 
+    Author: Yonatan Getachew 
+    Created: 3/24/2024
+""" 
+
 # pip install wikipedia
 import wikipedia
 
